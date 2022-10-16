@@ -1,0 +1,5 @@
+{
+    "require": {
+        "easygco/easygco-payments": "^1.0"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "easygco/easygco-payments",
+    "description": "EasyGCO Payments API Client Library v1.0.0",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "require-dev": {
+        "guzzlehttp/guzzle": "^7.4"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+            "EasyGCO\\EasyGCOPayments\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Easy Group",
+            "email": "github@easygco.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "easygco/easygco-payments-dhru-fusion-gateway",
+    "description": "EasyGCO Payments Gateway for Dhru Fusion",
+    "keywords": [
+        "easygco",
+        "easygco payments",
+        "esg",
+        "easy group",
+        "dhru fusion",
+        "easygco gateway module",
+        "easygco gateway",
+        "easygco module",
+        "easygco payments gateway module",
+        "easygco payments gateway",
+        "easygco payments module",
+        "payment gateway module",
+        "payments gateway module",
+        "dhru",
+        "dhru-fusion"
+    ],
+    "homepage": "https://github.com/EasyGCO/EasyGCO-Payments-Dhru-Fusion-Gateway",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "EasyGCO",
+            "email": "github@easygco.com",
+            "homepage": "https://easygco.com/"
+        }
+    ],
+    "support": {
+        "email": "github@easygco.com",
+        "documentation": "https://docs.easygco.com/"
+    }
+}

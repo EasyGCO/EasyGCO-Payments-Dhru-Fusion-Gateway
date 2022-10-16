@@ -1,0 +1,14 @@
+#Options +FollowSymlinks
+RewriteEngine On
+
+Order deny,allow
+Deny from all
+
+<FilesMatch "^ipn\.php">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
+
+<Files ~ "\.(php2|php3|php4|php5|php6|php7|php8|php9)$">
+   Deny from all
+</Files>
